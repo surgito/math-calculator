@@ -17,4 +17,4 @@ A lightweight command-line calculator built with Python.
 ### Run
 
 ```bash
-python calculator-V0.1.py
+python3 calculator-V0.1.py
